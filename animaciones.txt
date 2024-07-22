@@ -1,0 +1,13 @@
+Animaciones con devtools:
+tres puntos -> more tools -> animaciones.
+
+Captura animaciones abriendo Animation Inspector. Detecta automáticamente animaciones y las organiza en grupos. 
+Inspecciona las animaciones reduciendo su velocidad, reproduciéndolas nuevamente o viendo su código fuente.
+Modifica las animaciones cambiando su sincronización, retraso y duración o los desplazamientos de sus fotogramas claves. 
+Información general Animation Inspector de Chrome DevTools tiene dos objetivos principales.
+
+Inspeccionar animaciones: si deseas someter a reducción de velocidad, volver a reproducir o inspeccionar el código fuente de un grupo de animaciones
+Modificar animaciones: si deseas modificar la sincronización, el retraso, la duración o los desplazamientos de los fotogramas claves de una animación. 
+La edición de curvas Bézier y de fotogramas claves no son compatibles por el momento. Animation Inspector es compatible con animaciones de CSS, transiciones de CSS y animaciones web. 
+
+Las animaciones requestAnimationFrame no son compatibles por el momento.
