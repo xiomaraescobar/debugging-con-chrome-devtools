@@ -1,0 +1,7 @@
+para utilizar devtools como editor debemos seguir estos pasos:
+1.filesystem
+2. agregar folder a mi espacio de trabajo
+3. se busca la ruta de acceso a la carpeta
+4. aceptar el acceso a google
+
+solo se puede manipular el prepocesador Sass

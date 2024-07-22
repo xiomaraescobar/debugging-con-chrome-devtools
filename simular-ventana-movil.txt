@@ -1,0 +1,25 @@
+Simular una ventana móvil:
+
+|Podremos simular diferentes tipos de pantalla, para tener un proyecto más accesible a distintas pantallas. 
+|En la esquina superior derecha está un ícono 📱. |Cuando trabajamos con Resposive Design hay 2 estrategias para generar breakpoints:
+
+Trabajar por dispositivos
+Trabajar por MediaQuerys que nos dan las DevTools
+|
+|Desde aquí podrémos trabajar con distintas densidades de pixeles y velocidades de conexión, hacer esto en nuestros proyectos es buena práctica.
+
+Alternando vista con Toggle device toolbar.
+
+Break Points (media querys). Dimensiones más comunes.
+
+Emulando dispositivos móviles.
+
+Mostrar media querys del proyecto.
+
+Agregando Tipo de dispositivo. Si se trata de un dispositivo móvil touch o no touch, o si se trata de un desktop touch o no touch.
+
+Mostrar el frame del dispositivo móvil. No está disponible para todos los dispositivos.
+
+Device pixel ratio. Es una forma de modificar los pixels del dispositivo que se está emulando.
+
+Online. Para emular una conexión media o baja típica de un operador móvil.
