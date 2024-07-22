@@ -1,0 +1,37 @@
+Que es el Debugging:
+El debugging nos ayuda a solucionar problemas que tengamos con el software, el cual debemos encontrar y solucionarlo, este proceso se le llama debugging.
+
+Debugging es el proceso de encontrar y resolver defectos o problemas dentro de un programa (software) 
+que impide el funcionamiento correcto del programa o sistema.
+
+Devtools:
+
+Las dev tools son herramientas de desarrollo que vienen en todos los navegadores. 
+No todas son iguales por lo que hay devtools muy particulares dependiendo del navegador.
+
+Editando html atajos que nos ayudan:
+
+1. Control + F: Buscar palabras especificas dentro del documento HTML. (Se debe estar en la sección de elementos)
+2. Los tres puntos al lado izquierdo de cada elemento HTML nos ayudan a mover estos a otras posiciones. Por ejemplo: cambiar de posición los elementos de una lista del nav.
+3. Settings -> Shorcouts: Te permiten ver los atajos de teclado que puedes utilizar en las dev tools dependiendo de tu sistema operativo. 
+
+colores:
+
+Respecto a los colores de Material Design , para poder ver la combinación de colores que se pueden aplicar a una pagina ,
+En la sección mencionada de Material Design recordar dar un click sostenido a cada uno para visualizar la linea de colores de esta forma :
+Entrar a la paleta de colores y dirigirse a la sección de Material Design
+Click sostenido sobre la linea de colores que desee visualizar.
+
+Sombras:
+
+Agregar una declaración de sombra Para agregar una box-shadowdeclaración a un elemento:
+
+Desplácese sobre la regla de estilo a la que desea agregar la box-shadow declaración.
+Revela la barra de herramientas Más acciones .
+Haga clic en Agregar cuadro de sombra Añadir cuadro de sombra.
+NOTA:
+En mi caso no me aparecen los tres punticos esta es otra forma de hacerlo
+Agreguen el estilo box-shadow.
+Seleccionen la opción: 0 0 black
+Les aparecerán dos cuadritos superpuestos los cuales sacan un diálogo que dice: "Open shadow editor"
+Hacen click ahí.
