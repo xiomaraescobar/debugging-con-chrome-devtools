@@ -1,0 +1,13 @@
+Si no encuentran la herramienta Audits, pueden utilzar la herramienta Lighthouse (es la misma) :)
+
+Abrimos el proyecto en nuestro navegador.
+
+Clic derecho en alguna parte del proyecto. Clic en “Inspeccionar” para abrir las DevTools.
+
+Al extender la sección de pestañas, seleccionamos “Lighthouse”.
+
+Observamos varias opciones que podemos analizar. Puedes seleccionar todas o las que necesites. Sólo podemos generar un reporte por versión mobile o desktop. Si quieres ambas, genera otro reporte con la opción que te falte.
+
+Una vez hecha la elección, clic en “Generar reporte”. Esperamos a que termine de generarlo.
+
+Analizamos los resultados
