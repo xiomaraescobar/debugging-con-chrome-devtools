@@ -1,0 +1,8 @@
+Esto sirve para poder emular diferentes dispositivos en diferentes situaciones y así podemos optimizar mejor la pagina
+en caso de que el CPU de los dispositivos en los cuales se utilizara no son los más rápidos o que su internet no es muy bueno. 
+Esto se puede ver en: 
+Dev Tools > Performance
+A pesar de que Dev Tools nos da estas herramientas, se recomienda comprar dispositivos no tan caros para poder probar nuestras páginas.
+
+Otra herramienta que nos ofrece Dev Tools es emular los sensores del dispositivo(geolocation, orietation, touch). 
+Puedes acceder en la siguiente ruta: Dev Tools > More Tools > Sensors

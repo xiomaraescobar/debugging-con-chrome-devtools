@@ -1,0 +1,15 @@
+La IU del panel Sources cuenta 3 partes fundamentales:
+
+Panel File Navigator: Aquí se muestran todos los archivos que solicita la página.
+Panel Code Editor: Después de seleccionar un archivo en el panel File Navigator, el contenido del archivo se muestra aquí.
+Panel JavaScript Debugging: Diversas herramientas para inspeccionar el JavaScript de la página. 
+Si la ventana de DevTools es ancha, este panel aparece a la derecha del panel Code Editor.
+
+Network en devtools:
+
+El panel Network es utilizado para asegurarse de que los recursos se descarguen o carguen como se esperaba.
+
+Los casos de uso más comunes para el panel Network son:
+
+Asegurarse de que los recursos se estén cargando o descargando.
+Inspeccionar las propiedades de un recurso individual, como sus encabezados HTTP, contenido, tamaño, etc.

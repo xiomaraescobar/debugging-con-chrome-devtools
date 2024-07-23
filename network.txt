@@ -1,0 +1,14 @@
+Revisando detalles con Network
+Mostrando más propiedades: Domain. Para mostrar el dominio de donde proviene el archivo.
+
+Simulando conexiones de red: Online (Normal) Fast 3G Slow 3G Offline Custom
+
+Filtrando o bloqueando archivos para que no se descarguen en el navegador. 
+Ctrl+Shift+P > Show Request blocking > + > Archivo.ext
+
+El panel Network es utilizado para asegurarse de que los recursos se descarguen o carguen como se esperaba.
+
+Los casos de uso más comunes para el panel Network son:
+
+Asegurarse de que los recursos se estén cargando o descargando.
+Inspeccionar las propiedades de un recurso individual, como sus encabezados HTTP, contenido, tamaño, etc.
